@@ -23,5 +23,9 @@ class ViewController: UIViewController {
     func myfunc() -> Bool{
         return false
     }
+    
+    func reverse(){
+        print("Message")
+    }
 }
 
